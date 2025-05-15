@@ -1,0 +1,7 @@
+{
+  "error": "Not Found",
+  "message": "Resource at {method} {path} was not found.",
+  "path": "{path}",
+  "method": "{method}",
+  "timestamp": "2023-05-15T10:30:00Z"
+}

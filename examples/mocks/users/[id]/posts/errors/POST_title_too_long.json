@@ -1,0 +1,8 @@
+{
+  "_statusCode": 400,
+  "error": "Bad Request",
+  "message": "Post title exceeds maximum length",
+  "details": {
+    "title": "Title must be 100 characters or less"
+  }
+}

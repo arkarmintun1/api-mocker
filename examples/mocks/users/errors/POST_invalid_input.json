@@ -1,0 +1,10 @@
+{
+  "_statusCode": 400,
+  "error": "Bad Request",
+  "message": "Invalid input data",
+  "details": {
+    "name": "Name is required",
+    "email": "Invalid email format",
+    "password": "Password must be at least 6 characters"
+  }
+}

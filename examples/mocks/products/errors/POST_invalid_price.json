@@ -1,0 +1,8 @@
+{
+  "_statusCode": 400,
+  "error": "Bad Request",
+  "message": "Invalid product price",
+  "details": {
+    "price": "Price must be a positive number"
+  }
+}

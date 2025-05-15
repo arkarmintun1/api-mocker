@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "userId": 1,
+  "title": "First Post",
+  "content": "This is the content of the first post",
+  "created_at": "2023-02-15T10:30:00Z",
+  "comments": [
+    {
+      "id": 1,
+      "text": "Great post!",
+      "author": "user2",
+      "created_at": "2023-02-16T08:45:00Z"
+    },
+    {
+      "id": 2,
+      "text": "Thanks for sharing this.",
+      "author": "user3",
+      "created_at": "2023-02-17T14:20:00Z"
+    }
+  ],
+  "tags": ["example", "first"]
+}

@@ -1,0 +1,6 @@
+{
+  "_statusCode": 409,
+  "error": "Conflict",
+  "message": "A user with this email already exists.",
+  "field": "email"
+}

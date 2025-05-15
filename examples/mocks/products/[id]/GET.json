@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "name": "Smartphone Pro",
+  "price": 799.99,
+  "category": "electronics",
+  "description": "Latest smartphone with advanced features. This premium smartphone comes with a 6.5-inch OLED display, 5G connectivity, triple-camera system, and all-day battery life. Perfect for professionals and tech enthusiasts.",
+  "features": [
+    "6.5-inch OLED display",
+    "Triple-camera system",
+    "5G connectivity",
+    "All-day battery life",
+    "Water resistant"
+  ],
+  "specifications": {
+    "dimensions": "146.7 x 71.5 x 7.4 mm",
+    "weight": "174g",
+    "display": "6.5-inch OLED",
+    "processor": "Octa-core processor",
+    "storage": "128GB",
+    "battery": "4000mAh"
+  },
+  "image": "https://example.com/images/smartphone.jpg",
+  "images": [
+    "https://example.com/images/smartphone-front.jpg",
+    "https://example.com/images/smartphone-back.jpg",
+    "https://example.com/images/smartphone-side.jpg"
+  ],
+  "inStock": true,
+  "rating": 4.8,
+  "reviews": 243,
+  "created_at": "2023-01-15T10:30:00Z",
+  "updated_at": "2023-05-01T14:25:00Z"
+}

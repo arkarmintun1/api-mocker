@@ -1,0 +1,12 @@
+{
+  "_statusCode": 201,
+  "_headers": {
+    "Location": "/users/1/posts/3"
+  },
+  "id": 3,
+  "userId": 1,
+  "title": "New Post",
+  "content": "This is a new post",
+  "created_at": "2023-05-15T10:30:00Z",
+  "_echo": true
+}

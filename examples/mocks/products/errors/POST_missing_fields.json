@@ -1,0 +1,10 @@
+{
+  "_statusCode": 400,
+  "error": "Bad Request",
+  "message": "Missing required fields",
+  "details": {
+    "name": "Product name is required",
+    "price": "Product price is required",
+    "category": "Product category is required"
+  }
+}

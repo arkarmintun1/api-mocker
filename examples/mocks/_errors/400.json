@@ -1,0 +1,7 @@
+{
+  "error": "Bad Request",
+  "message": "The request was malformed or contains invalid parameters.",
+  "path": "{path}",
+  "method": "{method}",
+  "timestamp": "2023-05-15T10:30:00Z"
+}

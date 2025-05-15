@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": "electronics",
+      "name": "Electronics",
+      "count": 15
+    },
+    {
+      "id": "clothing",
+      "name": "Clothing & Apparel",
+      "count": 25
+    },
+    {
+      "id": "home",
+      "name": "Home & Kitchen",
+      "count": 20
+    },
+    {
+      "id": "sports",
+      "name": "Sports & Outdoors",
+      "count": 18
+    },
+    {
+      "id": "books",
+      "name": "Books & Media",
+      "count": 30
+    }
+  ]
+}

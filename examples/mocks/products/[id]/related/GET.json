@@ -1,0 +1,28 @@
+{
+  "related": [
+    {
+      "id": 2,
+      "name": "Wireless Headphones",
+      "price": 149.99,
+      "category": "electronics",
+      "image": "https://example.com/images/headphones.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "name": "Tablet Ultra",
+      "price": 499.99,
+      "category": "electronics",
+      "image": "https://example.com/images/tablet.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "name": "Smartphone Case",
+      "price": 24.99,
+      "category": "accessories",
+      "image": "https://example.com/images/case.jpg",
+      "rating": 4.2
+    }
+  ]
+}

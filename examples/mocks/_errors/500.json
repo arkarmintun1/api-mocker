@@ -1,0 +1,8 @@
+{
+  "error": "Internal Server Error",
+  "message": "An unexpected error occurred while processing the request.",
+  "path": "{path}",
+  "method": "{method}",
+  "timestamp": "2023-05-15T10:30:00Z",
+  "reference": "ERR-1621066200000"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "@arkar/api-mocker",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "bin": {
+    "api-mocker": "./bin/api-mocker.js"
+  },
+  "scripts": {
+    "start": "node ./bin/api-mocker.js"
+  },
+  "keywords": [
+    "api",
+    "mock",
+    "json",
+    "server",
+    "test",
+    "development"
+  ],
+  "author": "Arkar Min Tun",
+  "license": "ISC",
+  "description": "Simple directory-based API mock server",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^13.1.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arkarmintun1/api-mocker.git"
+  }
+}

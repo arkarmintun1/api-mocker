@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone Pro",
+      "price": 799.99,
+      "category": "electronics",
+      "description": "Latest smartphone with advanced features",
+      "image": "https://example.com/images/smartphone.jpg",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Wireless Headphones",
+      "price": 149.99,
+      "category": "electronics",
+      "description": "Premium wireless headphones with noise cancellation",
+      "image": "https://example.com/images/headphones.jpg",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 89.99,
+      "category": "sports",
+      "description": "Lightweight running shoes for maximum comfort",
+      "image": "https://example.com/images/shoes.jpg",
+      "inStock": false
+    }
+  ],
+  "total": 3,
+  "page": 1,
+  "limit": 10,
+  "_headers": {
+    "Cache-Control": "max-age=300"
+  }
+}
