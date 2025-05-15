@@ -1,5 +1,5 @@
 {
-  "name": "@arkar/api-mocker",
+  "name": "@otito/api-mocker",
   "version": "1.0.0",
   "main": "lib/index.js",
   "bin": {
