@@ -1,6 +1,6 @@
 {
-  "name": "@otito/api-mocker",
-  "version": "1.0.1",
+  "name": "@arkarmintun/api-mocker",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "bin": {
     "api-mocker": "./bin/api-mocker.js"
@@ -17,7 +17,7 @@
     "development"
   ],
   "author": "Arkar Min Tun",
-  "license": "ISC",
+  "license": "MIT",
   "description": "Simple directory-based API mock server",
   "dependencies": {
     "chalk": "^4.1.2",

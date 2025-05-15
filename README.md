@@ -18,8 +18,8 @@ A simple, directory-based API mock server that serves JSON responses for your fr
 
 ```bash
 # Install globally
-npm install -g simple-api-mocker
+npm install -g @arkarmintun/api-mocker
 
 # Or use directly with npx
-npx simple-api-mocker
+npx @arkarmintun/api-mocker
 ```
