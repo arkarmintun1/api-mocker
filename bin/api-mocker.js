@@ -147,7 +147,7 @@ const server = app.listen(PORT, () => {
     });
   } else {
     console.log(chalk.yellow('\nNo mock endpoints found.'));
-    console.log(chalk.yellow(`Tip: Initialize example mocks with: npx api-mocker --init`));
+    console.log(chalk.yellow(`Tip: Initialize example mocks with: npx @arkarmintun/api-mocker --init`));
   }
 
   if (options.interactive) {
