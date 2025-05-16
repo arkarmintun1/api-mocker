@@ -21,5 +21,5 @@ A simple, directory-based API mock server that serves JSON responses for your fr
 npm install -g @arkarmintun/api-mocker
 
 # Or use directly with npx
-npx @arkarmintun/api-mocker
+npx @arkarmintun/api-mocker --init
 ```
