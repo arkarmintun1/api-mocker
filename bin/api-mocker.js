@@ -41,7 +41,7 @@ if (options.init) {
   }
 
   console.log(chalk.green('\nMock API directory initialized with example files!'));
-  console.log(chalk.yellow(`\nStart the server with: npx api-mocker --directory ${options.directory}`));
+  console.log(chalk.yellow(`\nStart the server with: npx @arkarmintun/api-mocker --directory ${options.directory}`));
   process.exit(0);
 }
 
@@ -66,7 +66,7 @@ const mocksDirectory = path.resolve(process.cwd(), options.directory);
 // Check if directory exists
 if (!fs.existsSync(mocksDirectory)) {
   console.error(chalk.red(`Error: Directory not found: ${mocksDirectory}`));
-  console.log(chalk.yellow(`\nTip: Initialize a new mocks directory with: npx api-mocker --init`));
+  console.log(chalk.yellow(`\nTip: Initialize a new mocks directory with: @arkarmintun/api-mocker --init`));
   process.exit(1);
 }
 
