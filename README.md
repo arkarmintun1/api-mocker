@@ -8,7 +8,6 @@ A simple, directory-based API mock server that serves JSON responses for your fr
 - 🔄 Support for all HTTP methods (GET, POST, PUT, DELETE, etc.)
 - 🔍 Dynamic path parameters using `[paramName]` directory naming
 - 📦 Plain JSON responses served as-is
-- 🔄 Smart handling of request bodies for POST/PUT requests
 - 🚨 Easy error testing with interactive CLI
 - ⏱️ Optional network delay simulation
 - 🔄 CORS support
